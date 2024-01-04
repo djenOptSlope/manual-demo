@@ -7,7 +7,7 @@ layout: post
 mermaid: true
 ---
 
-This jekyll-theme supports [MathJax](https://www.mathjax.org/) to render footnotes
+Test [MathJax](https://www.mathjax.org/) to render footnotes
 in markdown.
 
 e.g.,
